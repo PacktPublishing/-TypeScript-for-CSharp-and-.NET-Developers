@@ -1,0 +1,8 @@
+{
+  "compileOptions": {
+    "noImplicitAny": false,
+    "target": "es5",
+    "outFile" :  "scripts/app.js"
+
+  }
+}

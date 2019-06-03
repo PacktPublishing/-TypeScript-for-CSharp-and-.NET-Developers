@@ -1,0 +1,14 @@
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\bin\Debug\netcoreapp2.1\HelloWorldTypeScript.deps.json
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\bin\Debug\netcoreapp2.1\HelloWorldTypeScript.runtimeconfig.json
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\bin\Debug\netcoreapp2.1\HelloWorldTypeScript.runtimeconfig.dev.json
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\bin\Debug\netcoreapp2.1\HelloWorldTypeScript.dll
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\bin\Debug\netcoreapp2.1\HelloWorldTypeScript.pdb
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.csprojAssemblyReference.cache
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.RazorAssemblyInfo.cache
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.RazorAssemblyInfo.cs
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.AssemblyInfoInputs.cache
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.AssemblyInfo.cs
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.dll
+C:\Users\Ahmad\source\repos\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\netcoreapp2.1\HelloWorldTypeScript.pdb
