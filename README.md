@@ -1,5 +1,3 @@
-# TypeScript-for-CSharp-and-.NET-Developers
-TypeScript for CSharp and .NET Developers, published by Packt
 # TypeScript for CSharp and .NET Developers [Video]
 This is the code repository for [TypeScript for CSharp and .NET Developers [Video]]( https://www.packtpub.com/application-development/typescript-c-and-net-developers-video?utm_source=github&utm_medium=repository&utm_campaign=9781789138917), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
